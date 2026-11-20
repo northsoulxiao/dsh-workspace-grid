@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Workspace grid",
+    "description": "Lays the sidebar's workspace list out as three columns of tiles. The switch sits in the workspace view options menu, next to Group by, labelled Grid (3 columns); it is off by default, applies immediately and is remembered. A workspace without sessions becomes a compact tile with the folder icon above a name that wraps to three lines; a workspace that holds sessions or child workspaces keeps a full row, so session titles stay readable. The opened workspace and the selected session are highlighted with the accent color. On startup the plugin also widens the sidebar to the layout's 420px maximum, which you can still drag narrower afterwards. Only the arrangement changes: clicking, drag sorting, the context menu, hover cards and new sessions use the built-in interactions. State stays in local browser storage; no workspace files are read or written.",
+    "detail": "docs/DETAIL.md"
+  }
+}

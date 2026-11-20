@@ -1,0 +1,11 @@
+<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Workspace grid">
+  <rect x="4.3" y="4.3" width="7.2" height="7.2" rx="1.8" fill="#9AA6B5"/>
+  <rect x="4.3" y="14.4" width="7.2" height="7.2" rx="1.8" fill="#9AA6B5"/>
+  <rect x="4.3" y="24.5" width="7.2" height="7.2" rx="1.8" fill="#9AA6B5"/>
+  <rect x="14.4" y="24.5" width="7.2" height="7.2" rx="1.8" fill="#9AA6B5"/>
+  <rect x="24.5" y="24.5" width="7.2" height="7.2" rx="1.8" fill="#9AA6B5"/>
+  <rect x="24.5" y="14.4" width="7.2" height="7.2" rx="1.8" fill="#9AA6B5"/>
+  <rect x="14.4" y="14.4" width="7.2" height="7.2" rx="1.8" fill="#4D6BFE"/>
+  <rect x="24.5" y="4.3" width="7.2" height="7.2" rx="1.8" fill="#9AA6B5"/>
+  <rect x="14.4" y="4.3" width="7.2" height="7.2" rx="1.8" fill="#9AA6B5" opacity="0.55"/>
+</svg>

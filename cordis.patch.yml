@@ -1,0 +1,9 @@
+# Bundle patch of dsh-workspace-grid.
+#
+# The row id stays `workspace-grid` on purpose: it is the same id the earlier
+# hand-wired install used, so an existing toggle state keeps working after the
+# switch to a bundle.
+- insert:
+    - id: workspace-grid
+      # Must equal package.json `name`: the loader imports the package by this name.
+      name: dsh-workspace-grid
