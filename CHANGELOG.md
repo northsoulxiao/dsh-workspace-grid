@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 — 2026-11-20
+
+- Adds the `repository`, `bugs` and `homepage` fields, so the npm page and any market listing link to the public source repository.
+- No runtime change: `lib/` is identical to 1.0.0.
+
 ## 1.0.0
 
 - Packaged as an installable bundle (`dsh.bundle.patch`) with title, description, detail image and icon, so it appears in **Plugins** and can be enabled, disabled or removed there.

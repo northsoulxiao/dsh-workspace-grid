@@ -1,9 +1,17 @@
 {
   "name": "dsh-workspace-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shows the sidebar's workspace list as a three-column tile grid, toggled from the workspace view-options menu.",
   "license": "MIT",
   "author": "John Xiao",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northsoulxiao/dsh-workspace-grid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/northsoulxiao/dsh-workspace-grid/issues"
+  },
+  "homepage": "https://github.com/northsoulxiao/dsh-workspace-grid#readme",
   "type": "module",
   "main": "lib/index.js",
   "icon": "./icon.svg",
